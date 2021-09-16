@@ -1,0 +1,21 @@
+Date	Group	Series	Value
+27/12/2016	Currencies against Swedish kronor	1 EUR	9,6317
+28/12/2016	Currencies against Swedish kronor	1 EUR	9,6382
+29/12/2016	Currencies against Swedish kronor	1 EUR	9,5755
+30/12/2016	Currencies against Swedish kronor	1 EUR	9,5669
+02/01/2017	Currencies against Swedish kronor	1 EUR	9,561
+03/01/2017	Currencies against Swedish kronor	1 EUR	9,5385
+04/01/2017	Currencies against Swedish kronor	1 EUR	9,5446
+05/01/2017	Currencies against Swedish kronor	1 EUR	9,5471
+09/01/2017	Currencies against Swedish kronor	1 EUR	9,5665
+10/01/2017	Currencies against Swedish kronor	1 EUR	9,5687
+11/01/2017	Currencies against Swedish kronor	1 EUR	9,5731
+12/01/2017	Currencies against Swedish kronor	1 EUR	9,5326
+13/01/2017	Currencies against Swedish kronor	1 EUR	9,4973
+16/01/2017	Currencies against Swedish kronor	1 EUR	9,4875
+17/01/2017	Currencies against Swedish kronor	1 EUR	9,4944
+18/01/2017	Currencies against Swedish kronor	1 EUR	9,5169
+19/01/2017	Currencies against Swedish kronor	1 EUR	9,523
+20/01/2017	Currencies against Swedish kronor	1 EUR	9,533
+23/01/2017	Currencies against Swedish kronor	1 EUR	9,497
+24/01/2017	Currencies against Swedish kronor	1 EUR	9,4956
